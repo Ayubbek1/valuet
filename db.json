@@ -1,84 +1,31 @@
 {
   "users": [
     {
-      "email": "dsarifkulo021@gmail.com",
-      "name": "Daler",
-      "surname": "Sharifkulov",
-      "password": "2232",
+      "email": "a",
+      "password": "a",
       "id": 1
     },
     {
-      "email": "admin@gigy.app",
-      "name": "Daler",
-      "surname": "Daler",
-      "password": "21321312",
+      "email": "aa",
+      "password": "a",
       "id": 2
     },
     {
-      "email": "farrux@gmail.com",
-      "name": "Farrux",
-      "surname": "Farruxovich",
-      "password": "1234",
+      "email": "aaq",
+      "password": "a",
       "id": 3
+    },
+    {
+      "email": "qqa",
+      "password": "a",
+      "id": 4
+    },
+    {
+      "email": "Ayub",
+      "password": "ww",
+      "id": 5
     }
   ],
-  "cards": [
-    {
-      "date": "2023-10-20",
-      "user_id": 1,
-      "name": "Ayub",
-      "currency": "AED",
-      "balance": 954,
-      "id": 1
-    },
-    {
-      "date": "2023-10-20",
-      "user_id": 1,
-      "name": "a",
-      "currency": "AED",
-      "balance": 22222000,
-      "id": 2
-    }
-  ],
-  "transactions": [
-    {
-      "user_id": 1,
-      "date": "2023-10-20",
-      "card": {
-        "date": "2023-10-20",
-        "name": "Ayub",
-        "balance": "999",
-        "id": 1
-      },
-      "total": "22",
-      "category": "Fignya",
-      "id": 1
-    },
-    {
-      "user_id": 1,
-      "date": "2023-10-20",
-      "card": {
-        "date": "2023-10-20",
-        "name": "Ayub",
-        "balance": 977,
-        "id": 1
-      },
-      "total": "23",
-      "category": "aa",
-      "id": 2
-    },
-    {
-      "user_id": 1,
-      "date": "2023-10-20",
-      "card": {
-        "date": "2023-10-20",
-        "name": "a",
-        "balance": "22222222",
-        "id": 2
-      },
-      "total": "222",
-      "category": "Fignya",
-      "id": 3
-    }
-  ]
+  "cards": [],
+  "transactions": []
 }
